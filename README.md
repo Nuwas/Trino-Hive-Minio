@@ -54,4 +54,8 @@ SELECT DB_ID, `DESC`, DB_LOCATION_URI, NAME, OWNER_NAME, OWNER_TYPE, CTLG_NAME F
 
 I used DBeaver tool to connect to Maria-DB and Trino. 
 
+
+![WhatsApp Image 2024-10-13 at 6 47 07 PM](https://github.com/user-attachments/assets/00eb4a46-99c7-433f-b532-e0583d2c1492)
+
+
 Good luck.
